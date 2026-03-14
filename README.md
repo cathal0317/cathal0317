@@ -2,9 +2,9 @@
 
 ### My Interest
 - Diffusion & Flow-Matching models 
-- Controllable text-to-speech (emotion, style, robustness)  
+- Controllable Generative Models
 - Inference-time scaling (Training-Free Methods)
-- Physical Modelling
+- Physical Modelling 
   
 ---
 
@@ -39,11 +39,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Audio / Speech
-![torchaudio](https://img.shields.io/badge/torchaudio-EE4C2C?style=for-the-badge)
-![librosa](https://img.shields.io/badge/librosa-555555?style=for-the-badge)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Mel Spectrograms](https://img.shields.io/badge/Mel--Spectrograms-444444?style=for-the-badge)
 
 ---
 
