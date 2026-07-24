@@ -42,8 +42,7 @@
 
 ---
 
-### How to reach me
-- Email: hlzh0610@gmail.com
+[Upcrossing A](https://upcrossing.ai)
 
 <!--
 **cathal0317/cathal0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
