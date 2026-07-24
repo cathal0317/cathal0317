@@ -42,7 +42,7 @@
 
 ---
 
-[Upcrossing A](https://upcrossing.ai)
+[Upcrossing AI](https://upcrossing.ai)
 
 <!--
 **cathal0317/cathal0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
